@@ -2,3 +2,4 @@
 Aula Pratica de ES2: Criar ficheiro e fazer push para o git
 rodolfo - alteração ao ficheiro so para dar problemas...
 tiago - alteração só para lixar esta m**** toda
+tiago - alteração só para fazer o merge e rebentar com tudo
