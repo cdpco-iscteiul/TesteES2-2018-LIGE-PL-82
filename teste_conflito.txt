@@ -1,4 +1,8 @@
 
 Aula Pratica de ES2: Criar ficheiro e fazer push para o git
-rodolfo - alteração ao ficheiro so para dar problemas...
+1º parte: rodolfo - alteração ao ficheiro so para dar problemas...
+
+
+2º parte: testar novo branch e verificar conflito com .txt original
+
 
