@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ja saiu a linha que a catarina deixou..
 
 ﻿ (nao sei quem fez isto mas ok...rodolfo)
 rodolfo - alteraçao do ficheiro no branch 1
@@ -8,6 +8,3 @@ Aula Pratica de ES2: Criar ficheiro e fazer push para o git
 rodolfo - alteração ao ficheiro so para dar problemas...
 alteracao rui hey :)
 tiago - alteração só para "danificar" esta "coisa" toda!"!!!!!!!!!!!!!!
-=======
-﻿Aula Pratica de ES2: Fazer um ficheiro texto a partir do git Bash
->>>>>>> fc8c4a20f199a5c518890765efb24779329de8ce
